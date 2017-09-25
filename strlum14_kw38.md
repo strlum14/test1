@@ -32,10 +32,10 @@ Die **Versionsverwaltung** wird für die Erfassung von änderungen bei Projekten
     *add --> Daten werden vom Workspace an den Index transferiert.
     
 Mithilfe von '#' können je nach Anzahl der 'Kanalgitter' Hauptüberschriften und unterüberschriften gemacht werden.
-Bsp. #Das   
-     ##ist  
-     ###die
-     ####Überschrift
+Bsp. #*Das*   
+     ##*ist*  
+     ###*die*
+     ####*Überschrift*
 
 Mithilfe des Markdown Cheatsheet können Befehle im Internet nachgeschlagen werden.
 
