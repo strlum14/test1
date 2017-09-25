@@ -25,18 +25,19 @@ Versionen zurückgreifen, was Zeit und Arbeit spart.
 Die **Versionsverwaltung** wird für die Erfassung von änderungen bei Projekten verwendet.
 
 ### *Wichtige Befehle*
-* clone  -> Repository wird geklont (verdoppelt)!
-* pull   -> Änderungen vom Server transferieren!
-* push   -> Änderungen vom lokalen Repository zum Server transferieren!
-* add    -> Daten vom Workspace an  den Index transferieren!
-* commit -> Daten vom Index zum lokalen Repository transferieren!
+* pull --> änderungen können vom Server transferiert werden.
+ *push --> Änderungen werden vom lokalen Repository zum Server transferiert werden.
+  *clone --> Hiermit kann die Repository geklont werden.( klonen=verdoppeln)
+   *commit --> Daten werden vom Index zum Lokalen Repository transferiert.
+    *add --> Daten werden vom Workspace an den Index transferiert.
+    
+Mithilfe von '#' können je nach Anzahl der 'Kanalgitter' Hauptüberschriften und unterüberschriften gemacht werden.
+Bsp. #Das   
+     ##ist  
+     ###die
+     ####Überschrift
 
-* '#' - 1.Hauptüberschrift, '##' 2. - Hauptüberschrift, '###' - 3. ...
-* '**...**' - fett, '*...*' - kursiv
-* '*' - Liste
-* '[Name] (Link)' - Link einfügen
-* '
+Mithilfe des Markdown Cheatsheet können Befehle im Internet nachgeschlagen werden.
 
-Mithilfe des Markdown Cheatsheet können Befehle nachgeschlagen werden.
 
 
