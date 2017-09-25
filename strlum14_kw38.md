@@ -21,8 +21,14 @@ welcher auch eine treibende Kraft beim erzeugen des Linux-Kernels war.
 Ein großer Vorteil bei Git ist, dass die lokale Versionsverwaltung auch offline verfügbar ist.
 Die Repositories werden lokal gespeichert.
 Sollte sich auf einer neuen Version ein Bug befinden, kann man ohne weitere probleme auf ältere
-Versionen zurückgreifen, was Zeit und Arbeit spart.
+Versionen zurückgreifen, was Zeit und Arbeit spart.(Branch)
 Die **Versionsverwaltung** wird für die Erfassung von änderungen bei Projekten verwendet.
+
+### *Branch*
+Ein Branch ist dafür, um immer über eine stabile Version des Programms zu verfügen.
+In normalen Branches arbeitet man für gewöhnlich.
+Mithilfe vom Master-Branch kann man in kurzer Zeit auf eine frühere bzw. funktionierende Version zurückgreifen.
+
 
 ### *Wichtige Befehle*
 * pull --> änderungen können vom Server transferiert werden.    
