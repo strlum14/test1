@@ -26,10 +26,10 @@ Die **Versionsverwaltung** wird für die Erfassung von änderungen bei Projekten
 
 ### *Wichtige Befehle*
 * pull --> änderungen können vom Server transferiert werden.    
-*push --> Änderungen werden vom lokalen Repository zum Server transferiert werden.    
-*clone --> Hiermit kann die Repository geklont werden.( klonen=verdoppeln)    
-*commit --> Daten werden vom Index zum Lokalen Repository transferiert.    
-*add --> Daten werden vom Workspace an den Index transferiert.
+* push --> Änderungen werden vom lokalen Repository zum Server transferiert werden.    
+* clone --> Hiermit kann die Repository geklont werden.( klonen=verdoppeln)    
+* commit --> Daten werden vom Index zum Lokalen Repository transferiert.    
+* add --> Daten werden vom Workspace an den Index transferiert.
     
 Mithilfe von '#' können je nach Anzahl der 'Kanalgitter' Hauptüberschriften und unterüberschriften gemacht werden.
 Bsp. 
