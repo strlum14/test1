@@ -39,7 +39,8 @@ Bsp.
    ### *die*
    #### *Überschrift*
 
-Mithilfe des Markdown Cheatsheet können Befehle im Internet nachgeschlagen werden:
+Mithilfe des Markdown Cheatsheet können Befehle im Internet nachgeschlagen werden:  
+
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
