@@ -3,7 +3,7 @@
 ##Laboreinheit 19.9.2017
 
 Anwesend sind:  
-Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz  
+Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz ,ich
 
 **Thema:**
 * GIT![GitHub Logo](/images/logo.png)
